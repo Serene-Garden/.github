@@ -11,5 +11,5 @@ Welcome to Garden Studio, a garden full of silence.
 
 ## 这里有什么项目？
 - Project Iris / watchOS浏览器
-- Project Protinia / macOS连点器 / Work in Progress
+- Cepheus / watchOS键盘 / Work in Progress
 - 目前没了
