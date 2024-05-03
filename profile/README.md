@@ -11,5 +11,5 @@ Welcome to Serene Garden.
 
 ## 这里有什么项目？
 - Project Iris / watchOS浏览器
-- Cepheus / watchOS键盘 / Work in Progress
+- Cepheus / watchOS键盘
 - 目前没了
