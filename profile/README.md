@@ -14,4 +14,4 @@ Wish we could found peace.
 ## Packages
 - Cepheus / watchOS键盘
 - Vela / watchOS颜色选择器
-- Pictor/ watchOS符号选择器
+- Pictor / watchOS符号选择器
