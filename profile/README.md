@@ -5,7 +5,7 @@ Welcome to Serene Garden.
 
 愿这里和平。
 
-Wish we could found peace.
+Wish we could find peace here.
 
 ## 这里有什么项目？
 ## App
