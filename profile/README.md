@@ -1,10 +1,8 @@
 # Serene Garden 
 欢迎来到Serene Garden。
-
-Welcome to Serene Garden.
-
 愿这里和平。
 
+Welcome to Serene Garden.
 Wish we could find peace here.
 
 ## 这里有什么项目？
