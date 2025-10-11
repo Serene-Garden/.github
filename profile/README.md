@@ -1,9 +1,9 @@
-# Serene Garden 
-欢迎来到Serene Garden。
-愿这里和平。
+# Qastor
+Welcome to Qastor.
 
-Welcome to Serene Garden.
-Wish we could find peace here.
+Use to be named as Serene Garden.
+
+I used to write something here but later I believe that whatever is fine.
 
 ## What We've Got
 ### App
@@ -15,10 +15,7 @@ Wish we could find peace here.
 - Pictor / watchOS Symbol Picker
 
 ## Community Rules
-在这里干什么都可以，不伤害他人即可。
-
-毕竟，为什么要让花园成为沉重的是非之地？
 
 Do whatever you want as long as you don't harm others.
 
-Since, why do we want a community, furthermore a garden, become a heavy place full of arguments and punishments?
+I would not want Qastor to be a painful place.
